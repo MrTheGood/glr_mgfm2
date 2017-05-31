@@ -1,0 +1,514 @@
+fileFormatVersion: 2
+guid: e9a4d9e612294f7428c1b43676875cfa
+timeCreated: 1489778939
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: playerLeft1
+    21300002: playerLeft2
+    21300004: playerLeft3
+    21300006: player1
+    21300008: player2
+    21300010: player3
+    21300012: playerRight1
+    21300014: playerRight2
+    21300016: playerRight3
+    21300018: roket7
+    21300020: roket6
+    21300022: roket5
+    21300024: roket4
+    21300026: roket3
+    21300028: roket2
+    21300030: roket1
+    21300032: laser2
+    21300034: laser1
+    21300036: explosion1
+    21300038: explosion2
+    21300040: explosion3
+    21300042: explosion4
+    21300044: explosion5
+    21300046: explosion6
+    21300048: explosion7
+    21300050: explosion8
+    21300052: rock6
+    21300054: rock4
+    21300056: rock5
+    21300058: rock2
+    21300060: rock1
+    21300062: rock3
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 8192
+  textureSettings:
+    filterMode: 0
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 33
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: playerLeft2
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 274
+        width: 30
+        height: 43
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: playerLeft3
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 231
+        width: 30
+        height: 40
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: player2
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 274
+        width: 39
+        height: 43
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 3.5, y: -38}
+        - {x: 4.5, y: -41}
+        - {x: 7.5, y: -43}
+        - {x: 17.5, y: -43}
+        - {x: 19.5, y: -40}
+        - {x: 19.5, y: -13}
+        - {x: 8.5, y: 0}
+        - {x: -9.5, y: 0}
+        - {x: -19.5, y: -13}
+        - {x: -19.5, y: -40}
+        - {x: -18.5, y: -43}
+        - {x: 0.5, y: -43}
+        - {x: 2.5, y: -41}
+        - {x: 3.5, y: -35}
+        - {x: 3.5, y: -32}
+    - name: player3
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 231
+        width: 39
+        height: 40
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -0.5, y: -38}
+        - {x: 0.5, y: -38}
+        - {x: 3.5, y: -35}
+        - {x: 3.5, y: -32}
+        - {x: 3.5, y: -37}
+        - {x: 4.5, y: -40}
+        - {x: 17.5, y: -40}
+        - {x: 19.5, y: -39}
+        - {x: 19.5, y: -17}
+        - {x: 8.5, y: 0}
+        - {x: -9.5, y: 0}
+        - {x: -19.5, y: -13}
+        - {x: -19.5, y: -37}
+        - {x: -17.5, y: -40}
+        - {x: -6.5, y: -40}
+        - {x: -3.5, y: -37}
+        - {x: -3.5, y: -34}
+        - {x: -3.5, y: -35}
+    - name: playerRight2
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 274
+        width: 29
+        height: 43
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: playerRight3
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 231
+        width: 29
+        height: 40
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: roket7
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 214
+        width: 4
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: roket6
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 212
+        width: 4
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: roket5
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 211
+        width: 6
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: roket4
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 213
+        width: 4
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: roket3
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 215
+        width: 4
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: roket2
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 217
+        width: 4
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: roket1
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 219
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: laser2
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 219
+        width: 3
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: laser1
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 217
+        width: 3
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: explosion1
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 185
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: explosion2
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 181
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: explosion3
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 178
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: explosion4
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 171
+        width: 39
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14.5, y: 17.5}
+        - {x: -19.5, y: 9.5}
+        - {x: -19.5, y: -16.5}
+        - {x: -17.5, y: -17.5}
+        - {x: 19.5, y: -17.5}
+        - {x: 19.5, y: 11.5}
+        - {x: 17.5, y: 17.5}
+    - name: explosion5
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 122
+        width: 45
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16.5, y: 20.5}
+        - {x: -22.5, y: 15.5}
+        - {x: -22.5, y: -10.5}
+        - {x: -19.5, y: -19.5}
+        - {x: -17.5, y: -20.5}
+        - {x: 12.5, y: -20.5}
+        - {x: 22.5, y: -17.5}
+        - {x: 22.5, y: 15.5}
+        - {x: 21.5, y: 20.5}
+    - name: explosion6
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 116
+        width: 53
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14.5, y: 24.5}
+        - {x: -26.5, y: 22.5}
+        - {x: -26.5, y: -22.5}
+        - {x: -17.5, y: -24.5}
+        - {x: 20.5, y: -24.5}
+        - {x: 26.5, y: -15.5}
+        - {x: 26.5, y: 16.5}
+        - {x: 16.5, y: 24.5}
+      - - {x: -6.5, y: -13.5}
+        - {x: -15.5, y: 5.5}
+        - {x: -6.5, y: 13.5}
+        - {x: 15.5, y: -5.5}
+    - name: explosion7
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 116
+        width: 53
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14.5, y: 24.5}
+        - {x: -26.5, y: 22.5}
+        - {x: -26.5, y: -22.5}
+        - {x: -17.5, y: -24.5}
+        - {x: 20.5, y: -24.5}
+        - {x: 26.5, y: -15.5}
+        - {x: 26.5, y: 16.5}
+        - {x: 16.5, y: 24.5}
+      - - {x: -11.5, y: -13.5}
+        - {x: -6.5, y: 15.5}
+        - {x: 11.5, y: 13.5}
+        - {x: 6.5, y: -15.5}
+    - name: explosion8
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 116
+        width: 53
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19.5, y: 23}
+        - {x: -26.5, y: 19}
+        - {x: -26.5, y: -19}
+        - {x: -14.5, y: -23}
+        - {x: -0.5, y: -23}
+        - {x: -1.5, y: -20}
+        - {x: -0.5, y: 23}
+      - - {x: 0.5, y: 23}
+        - {x: 0.5, y: -23}
+        - {x: 16.5, y: -23}
+        - {x: 26.5, y: -14}
+        - {x: 26.5, y: 12}
+        - {x: 19.5, y: 23}
+    - name: rock6
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 78
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: rock4
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 23
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: rock5
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 19
+        width: 18
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: rock2
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 12
+        width: 48
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 17, y: 21}
+        - {x: -6, y: 21}
+        - {x: -24, y: 0}
+        - {x: -24, y: -15}
+        - {x: -14, y: -21}
+        - {x: 1, y: -21}
+        - {x: 17, y: -14}
+        - {x: 24, y: -5}
+        - {x: 24, y: 18}
+    - name: rock1
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 61
+        width: 55
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19.5, y: 26.5}
+        - {x: -26.5, y: 18.5}
+        - {x: -27.5, y: 15.5}
+        - {x: -27.5, y: -3.5}
+        - {x: -17.5, y: -15.5}
+        - {x: -3.5, y: -26.5}
+        - {x: 12.5, y: -26.5}
+        - {x: 19.5, y: -23.5}
+        - {x: 27.5, y: -3.5}
+        - {x: 27.5, y: 22.5}
+        - {x: 16.5, y: 26.5}
+    - name: rock3
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 67
+        width: 30
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

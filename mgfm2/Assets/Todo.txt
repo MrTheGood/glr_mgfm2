@@ -1,0 +1,5 @@
+Possibly add:
+- Enemy Fighters vanaf score 20
+- Explosion Sounds
+- Upgrades (Example: Rockets, laserbeams) aan de hand van score
+- GPS-based messages. - iMac nodig..
